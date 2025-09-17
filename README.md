@@ -1,3 +1,3 @@
-# trans_light
+# Sc-AI
 
-Trans-light is not a LGBTQ+ program, but a desktop application where you highlight portions of your screen to translate into your designated language.
+Sc-AI is an application that allows you to highlight/fully_scan portions your screen that allows an AI to help assist you with certian tasks.
